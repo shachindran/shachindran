@@ -2,7 +2,7 @@
 
 **AI/NLP R&D  /  Software Engineering  /  Independent Projects**
 
-I'm an Information Technology undergraduate at Universiti Teknologi PETRONAS, with R&D experience at Alluvigen.
+I'm an Information Technology undergraduate at Universiti Teknologi PETRONAS, with R&D experience at Omniscien Technologies & Alluvigen.
 
 Most of my work sits somewhere between language technology and software engineering — processing messy documents, evaluating language models, building backend systems, and making complex workflows a little less complicated.
 
