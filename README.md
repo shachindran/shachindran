@@ -39,7 +39,15 @@ The source remains private while I develop and validate the platform.
 
 ---
 
-### 03 / Areas of interest
+### 03 / Open source
+
+**[Docling](https://github.com/docling-project/docling)** — Contributor to the open-source document processing toolkit.
+
+My [merged contribution (PR #5182)](https://github.com/docling-project/docling/pull/5182) improves the PII obfuscation example: unredacted Markdown is now opt-in, detected values are no longer written to logs, and original-text fields are updated to reflect obfuscated text.
+
+---
+
+### 04 / Areas of interest
 
 | Research & AI | Software & Systems |
 | :--- | :--- |
@@ -52,7 +60,7 @@ I'm particularly interested in the engineering required to make AI systems relia
 
 ---
 
-### 04 / Working with
+### 05 / Working with
 
 `Python` · `TypeScript` · `JavaScript` · `React` · `NestJS` · `PostgreSQL` · `Docker` · `Git`
 
